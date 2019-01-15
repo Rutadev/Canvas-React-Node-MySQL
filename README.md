@@ -1,3 +1,6 @@
+## Deprecated -see [Code Style Guide](https://github.com/bcbi/code_style_guide) for info on js app development for BCBI
+
+
 # Canvas Web App for React-Node-MySQL
 
 This is a fully working canvas for a React Web App with the following characteristics:
